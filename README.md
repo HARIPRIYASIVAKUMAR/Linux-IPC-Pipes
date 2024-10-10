@@ -7,6 +7,10 @@ Linux-IPC-Pipes
 # AIM:
 To write a C program that illustrate communication between two process using unnamed and named pipes
 
+
+
+
+
 # DESIGN STEPS:
 
 ### Step 1:
